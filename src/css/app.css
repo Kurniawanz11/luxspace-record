@@ -120,7 +120,7 @@
 
 
 @layer utilities {
-    .stretch-link {
+    .stretched-link {
         @apply absolute inset-0 z-10 cursor-pointer;
     }
 
